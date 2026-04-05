@@ -7,6 +7,7 @@
 
 
 ## 3.1415926
+## ![](https://github-readme-stats.vercel.app/api?username=skblt&count_private=true&show_icons=true&hide_border=true)
 
 # 🚀 Let's give it a shot! Go for our dream!
 
